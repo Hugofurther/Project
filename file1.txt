@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Something New AND LEAFY IS COMING!
+=======
+Fuck this!
+>>>>>>> newBranch
